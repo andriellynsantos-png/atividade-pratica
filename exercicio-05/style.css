@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #8450b5;
+    text-align: center;
+    padding: 40px;
+}
+
+.container {
+    background: #ce80ea;
+    padding: 30px;
+    border-radius: 12px;
+    max-width: 400px;
+    margin: auto;
+    box-shadow: 0 0 10px black(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+#contador {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 16px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
