@@ -24,15 +24,15 @@ body {
 .etiqueta {
     display: inline-block;
     padding: 6px 12px;
-    color: #9a4d08;
-    background-color: #fff0dc;
+    color: #e810c4;
+    background-color: #f7f7f8;
     border-radius: 999px;
     font-weight: bold;
 }
  
 h1 {
     margin: 14px 0 8px;
-    color: #6d3708;
+    color: #a768cf;
     text-align: center;
 }
  
@@ -51,13 +51,13 @@ h1 {
  
 .conceitos article {
     padding: 18px;
-    border: 1px solid #f2d3b1;
+    border: 1px solid #c08be0;
     border-radius: 12px;
     background-color: #fff9f2;
 }
  
 .conceitos span {
-    color: #9a4d08;
+    color: #a04ec3;
     font-weight: bold;
 }
  
@@ -81,20 +81,20 @@ input {
 }
  
 input:focus {
-    border-color: #9a4d08;
+    border-color: #ac4bdd;
     outline: 3px solid rgba(154, 77, 8, 0.15);
 }
  
 .visualizacao {
     margin-top: 18px;
     padding: 16px;
-    border-left: 5px solid #3975b7;
+    border-left: 5px solid #b851e0;
     border-radius: 8px;
     background-color: #f2f7fd;
 }
  
 .visualizacao span {
-    color: #3975b7;
+    color: #b562de;
     font-weight: bold;
 }
  
@@ -105,7 +105,7 @@ input:focus {
 .area-interacao {
     margin-top: 18px;
     padding: 28px;
-    border: 2px dashed #9a4d08;
+    border: 2px dashed #a077d5;
     border-radius: 12px;
     background-color: #fff9f2;
     text-align: center;
@@ -124,13 +124,13 @@ button {
     border: none;
     border-radius: 8px;
     color: white;
-    background-color: #9a4d08;
+    background-color: #ad4cc8;
     font-size: 16px;
     cursor: pointer;
 }
  
 button:hover {
-    background-color: #783a04;
+    background-color: #f512de;
 }
  
 button.secundario {
