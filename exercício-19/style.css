@@ -24,7 +24,7 @@ body {
 .etiqueta {
     display: inline-block;
     padding: 6px 12px;
-    color: #5b36a8;
+    color: #ff0be2;
     background-color: #eee7ff;
     border-radius: 999px;
     font-weight: bold;
@@ -32,7 +32,7 @@ body {
  
 h1 {
     margin: 14px 0 8px;
-    color: #39236f;
+    color: #26c8bd;
     text-align: center;
 }
  
@@ -57,7 +57,7 @@ h1 {
 }
  
 .conceitos span {
-    color: #5b36a8;
+    color: #36a8a8;
     font-weight: bold;
 }
  
@@ -84,7 +84,7 @@ h1 {
     place-items: center;
     border-radius: 50%;
     color: white;
-    background-color: #5b36a8;
+    background-color: #13e0c8;
     font-size: 28px;
     font-weight: bold;
 }
@@ -94,7 +94,7 @@ h1 {
 }
  
 .categoria {
-    color: #5b36a8;
+    color: #26deee;
     font-size: 14px;
     font-weight: bold;
 }
@@ -136,13 +136,13 @@ button {
     border: none;
     border-radius: 8px;
     color: white;
-    background-color: #5b36a8;
+    background-color: #36a0a8;
     font-size: 15px;
     cursor: pointer;
 }
  
 button:hover {
-    background-color: #452782;
+    background-color: #32a1c0;
 }
  
 button.secundario {
@@ -156,14 +156,14 @@ button.secundario:hover {
 .status {
     margin-top: 24px;
     padding: 18px;
-    border-left: 5px solid #5b36a8;
+    border-left: 5px solid #36dadd;
     border-radius: 10px;
     background-color: #f7f4ff;
 }
  
 .status h2 {
     margin: 0 0 8px;
-    color: #39236f;
+    color: #30d9d6;
     font-size: 20px;
 }
  
