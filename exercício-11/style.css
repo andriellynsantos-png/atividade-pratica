@@ -15,7 +15,7 @@ body {
   max-width: 620px;
   margin: auto;
   padding: 30px;
-  background-color: white;
+  background-color: rgb(43, 154, 198);
   border-radius: 14px;
   box-shadow: 0 12px 30px rgba(38, 50, 56, 0.15);
 }
@@ -127,4 +127,18 @@ button.secundario:hover {
   #resultado {
     font-size: 18px;
   }
+}
+
+.voltar {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.voltar:hover {
+    background-color: #555;
 }

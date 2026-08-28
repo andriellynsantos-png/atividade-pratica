@@ -16,7 +16,7 @@ body {
     max-width: 760px;
     margin: auto;
     padding: 32px;
-    background-color: white;
+    background-color: rgb(238, 249, 32);
     border-radius: 16px;
     box-shadow: 0 14px 35px rgba(45, 54, 90, 0.16);
 }
@@ -24,15 +24,15 @@ body {
 .etiqueta {
     display: inline-block;
     padding: 6px 12px;
-    color: #5040a8;
-    background-color: #ece9ff;
+    color: #e6a337;
+    background-color: #c9be9f;
     border-radius: 999px;
     font-weight: bold;
 }
  
 h1 {
     margin: 14px 0 8px;
-    color: #342b73;
+    color: #fcfcfc;
     text-align: center;
 }
  
@@ -65,7 +65,7 @@ h1 {
 }
  
 .painel-array strong {
-    color: #342b73;
+    color: #ebc445;
     font-size: 24px;
 }
  
@@ -85,7 +85,7 @@ input {
 }
  
 input:focus {
-    border-color: #5040a8;
+    border-color: #e2e215;
     outline: 3px solid rgba(80, 64, 168, 0.16);
 }
  
@@ -174,4 +174,18 @@ li.vazio {
     .botoes {
         grid-template-columns: 1fr;
     }
+}
+
+.voltar {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.voltar:hover {
+    background-color: #555;
 }

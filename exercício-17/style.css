@@ -17,7 +17,7 @@ body {
     max-width: 780px;
     margin: auto;
     padding: 32px;
-    background-color: white;
+    background-color: rgb(30, 213, 183);
     border-radius: 16px;
     box-shadow: 0 14px 35px rgba(40, 58, 100, 0.16);
 }
@@ -179,4 +179,18 @@ li.vazio {
     .botoes {
         grid-template-columns: 1fr;
     }
+}
+
+.voltar {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.voltar:hover {
+    background-color: #555;
 }

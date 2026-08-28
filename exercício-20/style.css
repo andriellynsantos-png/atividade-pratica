@@ -16,7 +16,7 @@ body {
     max-width: 820px;
     margin: auto;
     padding: 32px;
-    background-color: white;
+    background-color: rgb(58, 233, 39);
     border-radius: 16px;
     box-shadow: 0 14px 35px rgba(35, 73, 62, 0.16);
 }
@@ -242,4 +242,18 @@ ul {
         align-items: stretch;
         flex-direction: column;
     }
+}
+
+.voltar {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.voltar:hover {
+    background-color: #555;
 }

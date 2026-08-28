@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background-color: #ba7575;
     color: black;
     text-align: center;
     padding: 40px;
 }
 
 main {
-    background-color: #ffffff;
+    background-color: #a35a5a;
     padding: 30px;
     border-radius: 10px;
     max-width: 500px;
@@ -40,4 +40,18 @@ button {
     font-size: 18px;
     margin-top: 20px;
     cursor: pointer;
+}
+
+.voltar {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.voltar:hover {
+    background-color: #555;
 }
